@@ -1,6 +1,6 @@
 # GroupProject
 
-QueueFree is a Java-based application that allows users to register and join queues for various services such as hospitals, restaurants, and PSC (ЦОН).
+QueueFree is a Java-based application that allows users to register and join queues for various services such as fitness,PSL, restaurants, .
 
 ## 🚀 Features
 - 📌 Register for services (Hospital, Restaurant, PSC)
